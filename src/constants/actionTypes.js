@@ -1,0 +1,32 @@
+export const CREATE = 'CREATE';
+export const UPDATE = 'UPDATE';
+
+export const DELETE = 'DELETE';
+export const FETCH_ALL = 'FETCH_ALL';
+export const FETCH_BY_SEARCH = 'FETCH_BY_SEARCH';
+export const FETCH_BY_SEARCH1 = 'FETCH_BY_SEARCH1';
+export const FETCH_POST = 'FETCH_POST';
+export const LIKE = 'LIKE';
+export const COMMENT = 'COMMENT';
+export const PLAYER = 'PLAYER';
+export const Coach = 'Coach';
+export const STATS = 'STATS';
+export const CREATEPLAYER = 'CREATEPLAYER';
+export const CREATECoach = 'CREATECoach';
+export const CREATESTATS = 'CREATESTATS';
+export const RENT = 'RENT';
+export const END_LOADING = 'END_LOADING';
+export const START_LOADING = 'START_LOADING';
+export const FETCH_BY_CREATOR = 'FETCH_BY_CREATOR';
+export const DELETEPLAYER = 'DELETEPLAYER';
+export const DELETECoach = 'DELETECoach';
+export const DELETESTATS = 'DELETESTATS';
+export const DELETERENT = 'DELETERENT';
+export const CREATERENT = 'CREATERENT';
+
+export const TEMP = 'TEMP';
+export const DELETETEMP = 'DELETETEMP';
+export const CREATETEMP = 'CREATETEMP';
+export const AUTH = 'AUTH';
+export const LOGOUT = 'LOGOUT';
+export const USERUPDATE = 'USERUPDATE';

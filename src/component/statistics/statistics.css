@@ -1,0 +1,109 @@
+.statistics_nav{
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+height: 60px;
+width: 100%;
+background-color: #2196f3;
+
+}
+.statistics_nav_search>input{
+width: 600px;
+height: 40px;
+border: 1px solid lightgray;
+outline-width: 0;
+border-radius: 10px;
+background-color: whitesmoke;
+}
+.statistics_nav_search{
+    width: 650px;
+    height: 40px;
+    border: 1px solid lightgray;
+    outline-width: 0;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    }
+
+    .statistics_body{
+        display: flex;
+        align-items: center;
+        justify-content:space-evenly;     
+    }
+    .statistics_body_right_footer{
+
+        display: flex;
+        align-items: center;
+        justify-content: space-between; 
+
+    }
+    .events{
+width: 110px;
+background-color: teal;
+padding: 10px;
+border-left: 1px solid lightgray;
+border-right: 1px solid lightgrey;
+    }
+    .statistics_body_right_top{
+width: 340px;
+height: 200px;
+    }
+    .statistics_body_right_top>img{
+    
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    
+            }
+    .statistics_body_nav{
+background-color: whitesmoke;
+font-size: 18px;
+text-transform: uppercase;
+
+    }
+    .statistics_body_nav>p{
+      margin-left: 50px;
+        
+            }
+
+            .settings_left>h4{
+padding: 10px;
+font-size: 14px;
+border-radius: 10px;
+background-color: black;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+            }
+
+            .statistics_body_left{
+
+background-color: teal;
+width: 400px;
+font-size: 18px;
+color: white;
+text-transform: uppercase;
+border-radius: 10px;
+text-align: center;
+border: 1px solid teal;
+            }
+
+
+            .statistics_body_left>p{
+
+                background-color: rgba(78, 26, 42, 0.63);
+                width: 400px;
+                font-size: 18px;
+height: 40px;
+                color: white;
+                text-transform: uppercase;
+            
+                text-align: center;
+             
+                            }
+
+                            .statistics_body_right{
+margin-top: -800px;
+
+
+
+                            }

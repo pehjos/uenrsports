@@ -1,0 +1,91 @@
+.homeplayer{
+display: flex;
+
+margin: 10px;
+
+}
+.sidebarhome{
+display: flex;
+align-items: center;
+margin: 10px;
+flex-direction: column;
+border-right: 1px solid rgba(128, 128, 128, 0.363);
+flex: 0.1;
+}
+.pagehome{
+    background: rgb(174,238,200);
+    background: radial-gradient(circle, rgba(174,238,200,1) 0%, rgba(36,203,80,0) 100%);
+    display: flex;
+    /* align-items: center; */
+    margin: 10px;
+    flex-direction: column;
+  width: 100%;
+
+    flex: 0.8;
+    }
+    .pagehome{
+      background: rgb(174,238,200);
+      background: radial-gradient(circle, rgba(174,238,200,1) 0%, rgba(36,203,80,0) 100%);
+      display: flex;
+      /* align-items: center; */
+      margin: 10px;
+      flex-direction: column;
+    width: 100%;
+  
+      flex: 0.8;
+      }
+      .pagehome{
+        background: rgb(174,238,200);
+        background: radial-gradient(circle, rgba(174,238,200,1) 0%, rgba(36,203,80,0) 100%);
+        display: flex;
+        /* align-items: center; */
+        margin: 10px;
+        flex-direction: column;
+      width: 100%;
+    
+        flex: 0.8;
+        }
+        .pagehome{
+          background: rgb(174,238,200);
+          background: radial-gradient(circle, rgba(174,238,200,1) 0%, rgba(36,203,80,0) 100%);
+          display: flex;
+          /* align-items: center; */
+          margin: 10px;
+          flex-direction: column;
+        width: 100%;
+      
+          flex: 0.8;
+          }
+          .pagehome{
+            background: rgb(174,238,200);
+            background: radial-gradient(circle, rgba(174,238,200,1) 0%, rgba(36,203,80,0) 100%);
+            display: flex;
+            /* align-items: center; */
+            margin: 10px;
+            flex-direction: column;
+          width: 100%;
+        
+            flex: 0.8;
+            }
+            .pagehome{
+              background: rgb(174,238,200);
+              background: radial-gradient(circle, rgba(174,238,200,1) 0%, rgba(36,203,80,0) 100%);
+              display: flex;
+              /* align-items: center; */
+              margin: 10px;
+              flex-direction: column;
+            width: 100%;
+          
+              flex: 0.8;
+              }
+              .pagehome{
+    background: rgb(174,238,200);
+    background: radial-gradient(circle, rgba(174,238,200,1) 0%, rgba(36,203,80,0) 100%);
+    display: flex;
+    /* align-items: center; */
+    margin: 10px;
+    flex-direction: column;
+  width: 100%;
+
+    flex: 0.8;
+    }

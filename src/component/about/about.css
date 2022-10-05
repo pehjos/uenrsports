@@ -1,0 +1,47 @@
+.about_content{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.about_content>h3{
+   position: absolute;
+   top: 10;
+   color: white;
+    }
+    .content_ab{
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+    .right_about>h5{
+      color: white;
+      text-transform: uppercase;
+            }
+    .right_about{
+width: 80%;
+position: absolute;
+margin-top: 170px;
+padding: 10px;
+background-color: #2195f379;
+    }
+
+    .mission_vision{
+display: flex;
+align-items: center;
+justify-content: center;
+    }
+    .mission{
+width: 300px;
+height: 300px;
+display: flex;
+align-items: center;
+border-radius: 10px;
+flex-direction: column;
+margin: 10px;
+background-color: brown;
+padding: 10px;
+color: white;
+margin-top: -100px;
+    }

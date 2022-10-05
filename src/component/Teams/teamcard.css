@@ -1,0 +1,30 @@
+.teamCard{
+display:flex ;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+margin: 10px;
+}
+.teamCard>img{
+height: 300px;
+width: 400px;
+
+border-radius: 10px;
+background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+}
+.teamCard>p{
+position: absolute;
+margin-top: 170px;
+text-shadow: 2px 2px teal;
+text-transform: uppercase;
+}
+
+.teamCard>h6{
+position: absolute;
+text-shadow: 2px 2px tan;
+margin-top:-70px;
+text-transform: uppercase;
+
+}

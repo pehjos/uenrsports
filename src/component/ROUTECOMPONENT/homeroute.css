@@ -1,0 +1,26 @@
+.dashboardpages{
+  background-color: whitesmoke;
+
+}
+.playerupdate{
+margin-left: 28%;
+margin-right: 28%;
+}
+.navback{
+display: flex;
+color: white;
+background-color: #2196f3;
+}
+.navback>p{
+margin: 10px;
+    }
+    .bar{
+margin: 10px;
+
+    }
+    .playerhomeupdate{
+background-image: url("https://pbs.twimg.com/media/FMJNyMZXEAQf43b.jpg");
+   background-size: cover; 
+   background-repeat: no-repeat;  
+   height: 100vh;  
+    }

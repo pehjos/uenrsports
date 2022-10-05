@@ -1,0 +1,20 @@
+.detailpage{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.detailpage>img{
+   height: 400px;
+   width: 500px;
+    }
+
+    .player_content{
+background-color: #2196f3;
+color: white;
+height: 400px;
+    }
+    .players_positions_right_bottom>p{
+        color: white;
+
+
+    }

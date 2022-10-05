@@ -1,0 +1,59 @@
+.settings_header{
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 10px;
+}
+
+.settings_header_right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    color: white;
+    padding: 5px;
+    font-size: 14px;
+background-color: #2196f3;
+border-radius: 30px;
+}
+.settings_header_mid{
+display: flex;
+align-items: center;
+font-size: 13px;
+}
+.settings_header_mid>a{
+    text-decoration: none;
+    }
+.settings_header_mid>a>h6{
+    text-decoration: none;
+    color: #333;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    margin: 10px;
+    background-color: whitesmoke;
+    padding: 5px;
+    border-radius: 30px;
+    }
+.settings_header_middle>input{
+    width: 350px;
+    background-color: whitesmoke;
+    height: 40px;
+border: none;
+    outline-width: 0;
+    }
+    .settings_content{
+
+display: flex;
+align-items: center;
+justify-content: space-around;
+margin: 10px;
+    }
+    .settings{
+background-image: url("https://media.istockphoto.com/photos/view-of-soccer-ball-on-athletic-field-in-stadium-arena-picture-id637298374?b=1&k=20&m=637298374&s=170667a&w=0&h=PPZ7aFbZcs560wcjHB0bV8L18csKOE-dKOxGiKbPVPk=");
+color: white;
+background-repeat: no-repeat;
+background-size: cover;
+    }
+
+
